@@ -16,7 +16,7 @@
 - Power BI
 
 ## Résultats
-- 3 000 transactions recensées, dont 2 430 retenues dans les analyses principales.
+- 3 000 transactions recensées.
 - 364 109,61 € de dépenses.
 - 426 240 € environ d'entrées.
 - 5 pages d'analyse sur Power BI.
