@@ -1,66 +1,35 @@
-# Analyse de données bancaires
+# Maison Valmont : analyse commerciale et rentabilité
 
-Analyse de données bancaires : dépenses et comportements financiers
+**Projet de Data Analytics | SQL · Excel · Power BI**
 
-Projet de Data Analytics | SQL · Excel · Power BI
+## À propos
 
-À propos
+Analyse de données bancaires afin de comprendre les habitudes de dépenses, les entrées d'argent et les comportements financiers. Du nettoyage des données au tableau de bord interactif, j'ai utilisé SQL pour les contrôles qualité et les KPI, Excel pour préparer les données, et Power BI pour les visualiser.
 
-Analyse de 3 000 transactions bancaires fictives afin d'étudier les dépenses, les revenus et les comportements financiers. Utilisation d'Excel pour le nettoyage, MySQL pour les contrôles et analyses SQL, et Power BI pour la création d'un tableau de bord interactif.
+## Chiffres clés
 
-Chiffres clés
+| Indicateur | Résultat |
+|---|---:|
+| Dépenses totales | 364 109,61 € |
+| Entrées totales | 426 240 €|
+|Solde | 62 130 € |
+|Transactions analysées | 2 430 |
+|Dépense moyenne| 171,51 € |
+|Frais bancaires |1 210 € |
 
-Indicateur
+## Tableau de bord Power BI
 
-Résultat
+1. **Présentation et synthèse financière** : vue globale des transactions, dépenses, entrées et solde
+2. **Analyse des dépenses** : répartition par catégorie, évolution mensuelle et moyens de paiement.
+3. **Analyse des clients** : comparaison des dépenses par segment et région.
+4. **Vue d'ensemble des transactions** : suivi des flux financiers et des principaux KPI.
+5. **Qualité des données** : contrôle et identification des transactions exclues des analyses..
 
-Transactions initiales
+## Organisation
 
-3 000
+- `SQL/` : scripts (scripts (création, insertion, contrôles qualité, KPI et vues)
+- `Data/` : fichier Excel source et données nettoyées
+- `PowerBI/` : tableau de bord interactif et export PDF
 
-Transactions analysées
-
-2 430
-
-Dépenses totales
-
-364 109,61 €
-
-Entrées totales
-
-426 240 €
-
-Solde positif
-
-62 130 €
-
-Analyse et principaux enseignements
-
-Dépenses : le logement représente 57 % des dépenses.
-
-Paiements : la carte bancaire représente 45 % des dépenses.
-
-Clients : le segment Essentiel concentre le plus de dépenses.
-
-Évolution : septembre présente un déséquilibre important entre dépenses et entrées.
-
-Qualité : 570 transactions sont exclues des analyses principales.
-
-Tableau de bord Power BI
-
-5 pages : présentation, vue d'ensemble, analyse des dépenses, analyse des clients et qualité des données.
-
-Organisation
-
-SQL/ : scripts de création, insertion, contrôles qualité et KPI.
-
-Data/ : fichier Excel nettoyé.
-
-PowerBI/ : tableau de bord interactif et export PDF.
-
-
-
-##  Auteur
-Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.
-
-*Les données utilisées sont fictives.*
+*Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.*
+## Données fictives
