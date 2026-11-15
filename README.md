@@ -1,6 +1,6 @@
 # Analyse de données bancaires
 
-**Projet de Data Analytics | SQL · Excel · Power BI**
+**Projet de Data Analytics & Business Intelligence | SQL · Excel · Power BI**
 
 ## À propos
 
