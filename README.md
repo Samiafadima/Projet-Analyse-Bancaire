@@ -1,4 +1,4 @@
-# Maison Valmont : analyse commerciale et rentabilité
+# Analyse de données bancaires
 
 **Projet de Data Analytics | SQL · Excel · Power BI**
 
