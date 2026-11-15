@@ -1,38 +1,64 @@
 # Analyse de données bancaires
 
-**Projet réalisé avec Excel, MySQL et Power BI.**
+Analyse de données bancaires : dépenses et comportements financiers
 
-## Objectifs
-- Nettoyer les données avec Excel.
-- Créer une base de données avec MySQL.
-- Contrôler et analyser les données avec SQL.
-- Calculer des KPI.
-- Créer un dashboard interactif avec Power BI.
+Projet de Data Analytics | SQL · Excel · Power BI
 
-## Outils utilisés
-- Excel
-- MySQL
-- SQL
-- Power BI
+À propos
 
-## Résultats
-- 3 000 transactions recensées.
-- 364 109,61 € de dépenses.
-- 426 240 € environ d'entrées.
-- 5 pages d'analyse sur Power BI.
+Analyse de 3 000 transactions bancaires fictives afin d'étudier les dépenses, les revenus et les comportements financiers. Utilisation d'Excel pour le nettoyage, MySQL pour les contrôles et analyses SQL, et Power BI pour la création d'un tableau de bord interactif.
 
-## Analyse et interprétation
-- **Dépenses :** le logement représente 57 % des dépenses totales.
-- **Évolution :** septembre présente un écart important entre les dépenses et les entrées.
-- **Paiements :** la carte bancaire représente 45 % des dépenses.
-- **Clients :** le segment Essentiel concentre le montant total de dépenses le plus élevé.
-- **Qualité des données :** 570 transactions sur 3 000 sont exclues des analyses principales.
+Chiffres clés
 
-## Contenu du projet
-- Scripts SQL : création, insertion, contrôle, KPI et vues.
-- Fichier Excel : données nettoyées.
-- Power BI : tableau de bord interactif.
-- Rapport PDF : présentation des résultats.
+Indicateur
+
+Résultat
+
+Transactions initiales
+
+3 000
+
+Transactions analysées
+
+2 430
+
+Dépenses totales
+
+364 109,61 €
+
+Entrées totales
+
+426 240 €
+
+Solde positif
+
+62 130 €
+
+Analyse et principaux enseignements
+
+Dépenses : le logement représente 57 % des dépenses.
+
+Paiements : la carte bancaire représente 45 % des dépenses.
+
+Clients : le segment Essentiel concentre le plus de dépenses.
+
+Évolution : septembre présente un déséquilibre important entre dépenses et entrées.
+
+Qualité : 570 transactions sont exclues des analyses principales.
+
+Tableau de bord Power BI
+
+5 pages : présentation, vue d'ensemble, analyse des dépenses, analyse des clients et qualité des données.
+
+Organisation
+
+SQL/ : scripts de création, insertion, contrôles qualité et KPI.
+
+Data/ : fichier Excel nettoyé.
+
+PowerBI/ : tableau de bord interactif et export PDF.
+
+
 
 ##  Auteur
 Projet réalisé dans le cadre du développement de compétences en Data Analysis et Business Intelligence.
